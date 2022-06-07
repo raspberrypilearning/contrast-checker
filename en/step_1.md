@@ -1,59 +1,38 @@
-## Introduction
+--- task ---
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Open the [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
 
-### What you will make
+--- /task ---
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Under 'Background color' enter the hex code for your background colour.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![A screenshot of the contrast checker website. The hex code underneath background color is highlighted.](images/back-color.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- /task ---
 
-+ A computer or tablet capable of running Scratch 3
+--- task ---
 
-### Software
+**Choose**: To the left of the 'Background color' section is a 'Foreground color' section. 
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Use the colour picker to pick a colour that you think will work well with your background colour. 
 
-### Downloads
+![A screenshot of the contrast checker website. The colour picker underneath foreground color is highlighted.](images/fore-color.png)
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+**Note** that it must be a contrasting colour. If your background colour is dark then use a light foreground colour. 
 
---- /collapse ---
+--- /task ---
 
---- collapse ---
----
-title: What you will learn
----
+--- task ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+**Check** that you have chosen a contrasting colour by looking at the statuses below. They should all be 'Pass'.
 
---- /collapse ---
+![A screenshot of the contrast checker website. All of the statuses display the word: 'Pass'.](images/pass.PNG)
 
---- collapse ---
----
-title: Additional information for educators
----
+If the status for your colour is not showing as 'Pass' then you can slide the 'Lightness' bar until they do.
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
+![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.PNG)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+--- /task ---
 
---- /collapse ---
