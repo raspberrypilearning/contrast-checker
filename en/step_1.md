@@ -6,7 +6,7 @@ Open the [contrast checker](https://webaim.org/resources/contrastchecker/){:targ
 
 --- task ---
 
-Under 'Background color' enter the hex code for your background colour.
+Under 'Background color' enter the hex code for your background colour. This will be your `primary`, `secondary` or `tertiary` hex colours. 
 
 ![A screenshot of the contrast checker website. The hex code underneath background color is highlighted.](images/back-color.png)
 
@@ -35,4 +35,16 @@ If the status for your colour is not showing as 'Pass' then you can slide the 'L
 ![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.PNG)
 
 --- /task ---
+
+--- task ---
+
+Copy and paste the contrasting hex code colour into your colour palette. You need to find contrasting colours for:
+
++ `onprimary`
++ `onsecondary`
++ `ontertiary`
+
+--- /task ---
+
+
 
