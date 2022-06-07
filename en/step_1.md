@@ -32,7 +32,7 @@ Use the colour picker to pick a colour that you think will work well with your b
 
 If the status for your colour is not showing as 'Pass' then you can slide the 'Lightness' bar until they do.
 
-![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.PNG)
+![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.gif)
 
 --- /task ---
 
