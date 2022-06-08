@@ -1,19 +1,15 @@
 
---- task ---
+### Step 1
 
 Open the [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
 
---- /task ---
-
---- task ---
+### Step 2
 
 Under 'Background color' enter the hex code for your background colour. `primary`, `secondary` and `tertiary` are all background colours. 
 
 ![A screenshot of the contrast checker website. The hex code underneath background color is highlighted.](images/back-color.png)
 
---- /task ---
-
---- task ---
+### Step 3
 
 **Choose**: To the left of the 'Background color' section is a 'Foreground color' section. 
 
@@ -23,9 +19,7 @@ Use the colour picker to pick a colour that you think will work well with your b
 
 **Note** that it must be a contrasting colour. If your background colour is dark then use a light foreground colour. 
 
---- /task ---
-
---- task ---
+### Step 4
 
 **Check** that you have chosen a contrasting colour by looking at the statuses below. They should all be 'Pass'.
 
@@ -35,9 +29,7 @@ If the status for your colour is not showing as 'Pass' then you can slide the 'L
 
 ![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.gif)
 
---- /task ---
-
---- task ---
+### Step 5
 
 Copy and paste the contrasting hex code colour into your colour palette. You need to find contrasting colours for:
 
@@ -45,7 +37,6 @@ Copy and paste the contrasting hex code colour into your colour palette. You nee
 + `onsecondary`
 + `ontertiary`
 
---- /task ---
 
 
 
