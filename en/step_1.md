@@ -1,7 +1,7 @@
 
 ### Task 1
 
-Open the [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
+Open the [Contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
 
 ### Task 2
 
