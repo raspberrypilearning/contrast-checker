@@ -31,7 +31,7 @@ If the status for your colour is not showing as 'Pass', then you can slide the '
 
 ### Task 5
 
-Copy and paste the contrasting hex code colour into your colour palette. You need to find contrasting colours for:
+Copy and paste the hex code for the contrasting colours into your colour palette. You need to find contrasting colours for:
 
 + `onprimary`
 + `onsecondary`
