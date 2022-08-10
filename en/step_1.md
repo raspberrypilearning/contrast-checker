@@ -5,7 +5,7 @@ Open the [contrast checker](https://webaim.org/resources/contrastchecker/){:targ
 
 ### Task 2
 
-Under 'Background color' enter the hex code for your background colour. `primary`, `secondary`, and `tertiary` are all background colours. 
+Under the 'Background color' heading, enter the hex code for your background colour. `primary`, `secondary`, and `tertiary` are all background colours. 
 
 ![The contrast checker website. The hex code underneath the 'Background color' heading is highlighted.](images/back-color.png)
 
