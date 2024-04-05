@@ -1,4 +1,3 @@
-
 ### Task 1
 
 Open the [Contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
