@@ -26,7 +26,7 @@ Utilise le sélecteur de couleurs pour choisir une couleur qui, selon toi, s'acc
 
 Si le statut de ta couleur n'est pas « Pass », tu peux faire glisser la barre « Lightness » jusqu'à ce que ce soit le cas.
 
-Animation de la barre de statut déplacée vers la gauche et des statuts passant à "Pass" (images/adjust-contrast.gif)
+![Animation de la barre de statut déplacée vers la gauche et des statuts passant à "Pass"](images/adjust-contrast.gif)
 
 ### Tâche 5
 
