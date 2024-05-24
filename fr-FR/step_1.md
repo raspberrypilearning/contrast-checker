@@ -4,17 +4,17 @@ Ouvre le site web [Contrast Checker](https://webaim.org/resources/contrastcheck
 
 ### Tâche 2
 
-Under the 'Background' heading, enter the hex code for your background colour. Les couleurs « primaire », « secondaire » et « tertiaire » sont toutes des couleurs d'arrière-plan.
+Sous la rubrique « Background », saisis le code hexadécimal de ta couleur d'arrière-plan. Les couleurs « primaire », « secondaire » et « tertiaire » sont toutes des couleurs d'arrière-plan.
 
-![Le site web Contrast Checker. The hex code underneath the 'Background' heading is highlighted.](images/back-color.png)
+![Le site web Contrast Checker. Le code hexadécimal sous le titre "Background" est mis en évidence](images/back-color.png)
 
 ### Tâche 3
 
-**Choose**: To the left of the 'Background' section is a 'Foreground' section.
+**Choisis** : à gauche de la partie « Background » se trouve une partie « Foreground ».
 
 Utilise le sélecteur de couleurs pour choisir une couleur qui, selon toi, s'accorde bien avec la couleur de ton arrière-plan.
 
-![Le site web Contrast Checker. The colour picker underneath the 'Foreground' is shown.](images/fore-color.png)
+![Le site web Contrast Checker. Le sélecteur de couleurs situé sous la rubrique "Foreground" est mis en évidence](images/fore-color.png)
 
 **Remarque** que tu dois choisir une couleur contrastée. Si la couleur de ton arrière-plan est foncée, alors utilise une couleur de premier plan claire.
 
