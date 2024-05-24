@@ -6,7 +6,7 @@ Open the [Contrast checker](https://webaim.org/resources/contrastchecker/){:targ
 
 Under the 'Background color' heading, enter the hex code for your background colour. `primary`, `secondary`, and `tertiary` are all background colours. 
 
-![The contrast checker website. The hex code underneath the 'Background color' heading is highlighted.](images/back-color.png)
+![The contrast checker website. The hex code underneath the 'Background' heading is highlighted.](images/back-color.png)
 
 ### Task 3
 
@@ -14,7 +14,7 @@ Under the 'Background color' heading, enter the hex code for your background col
 
 Use the colour picker to pick a colour that you think works well with your background colour. 
 
-![The contrast checker website. The colour picker underneath the 'Foreground color' is highlighted.](images/fore-color.png)
+![The contrast checker website. The colour picker underneath the 'Foreground' is shown.](images/fore-color.png)
 
 **Notice** that you must choose a contrasting colour. If your background colour is dark, then use a light foreground colour. 
 
