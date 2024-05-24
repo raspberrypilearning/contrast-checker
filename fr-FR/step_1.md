@@ -1,36 +1,36 @@
-### Task 1
+### Tâche 1
 
-Open the [Contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
+Ouvre le site web [Contrast Checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
 
-### Task 2
+### Tâche 2
 
-Under the 'Background color' heading, enter the hex code for your background colour. `primary`, `secondary`, and `tertiary` are all background colours.
+Under the 'Background' heading, enter the hex code for your background colour. Les couleurs « primaire », « secondaire » et « tertiaire » sont toutes des couleurs d'arrière-plan.
 
-![The contrast checker website. The hex code underneath the 'Background color' heading is highlighted.](images/back-color.png)
+![Le site web Contrast Checker. The hex code underneath the 'Background' heading is highlighted.](images/back-color.png)
 
-### Task 3
+### Tâche 3
 
-**Choose**: To the left of the 'Background color' section is a 'Foreground color' section.
+**Choose**: To the left of the 'Background' section is a 'Foreground' section.
 
-Use the colour picker to pick a colour that you think works well with your background colour.
+Utilise le sélecteur de couleurs pour choisir une couleur qui, selon toi, s'accorde bien avec la couleur de ton arrière-plan.
 
-![The contrast checker website. The colour picker underneath the 'Foreground color' is highlighted.](images/fore-color.png)
+![Le site web Contrast Checker. The colour picker underneath the 'Foreground' is shown.](images/fore-color.png)
 
-**Notice** that you must choose a contrasting colour. If your background colour is dark, then use a light foreground colour.
+**Remarque** que tu dois choisir une couleur contrastée. Si la couleur de ton arrière-plan est foncée, alors utilise une couleur de premier plan claire.
 
-### Task 4
+### Tâche 4
 
-**Check** that you have chosen a contrasting colour by looking at the statuses below. They should all be 'Pass'.
+**Vérifie** que tu as choisi une couleur contrastée en regardant les statuts ci-dessous. Ils devraient tous être « Pass ».
 
-![The contrast checker website. All of the statuses display the word: 'Pass'.](images/pass.PNG)
+![Le site web Contrast Checker. Tous les statuts affichent le mot : "Pass"](images/pass.PNG)
 
-If the status for your colour is not showing as 'Pass', then you can slide the 'Lightness' bar until they do.
+Si le statut de ta couleur n'est pas « Pass », tu peux faire glisser la barre « Lightness » jusqu'à ce que ce soit le cas.
 
-![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.gif)
+Animation de la barre de statut déplacée vers la gauche et des statuts passant à "Pass" (images/adjust-contrast.gif)
 
-### Task 5
+### Tâche 5
 
-Copy and paste the hex code for the contrasting colours into your colour palette. You need to find contrasting colours for:
+Copie et colle le code hexadécimal des couleurs contrastées dans ta palette de couleurs. Il faut que tu trouves des couleurs contrastées pour :
 
 - `onprimary`
 - `onsecondary`
