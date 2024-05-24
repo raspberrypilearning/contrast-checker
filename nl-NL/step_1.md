@@ -1,36 +1,36 @@
-### Task 1
+### Taak 1
 
-Open the [Contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
+Open de website [Contrastchecker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
 
-### Task 2
+### Taak 2
 
-Under the 'Background color' heading, enter the hex code for your background colour. `primary`, `secondary`, and `tertiary` are all background colours.
+Under the 'Background' heading, enter the hex code for your background colour. 'primair', 'secundair' en 'tertiair' zijn allemaal achtergrondkleuren.
 
-![The contrast checker website. The hex code underneath the 'Background color' heading is highlighted.](images/back-color.png)
+![De contrastchecker website. The hex code underneath the 'Background' heading is highlighted.](images/back-color.png)
 
-### Task 3
+### Taak 3
 
-**Choose**: To the left of the 'Background color' section is a 'Foreground color' section.
+**Choose**: To the left of the 'Background' section is a 'Foreground' section.
 
-Use the colour picker to pick a colour that you think works well with your background colour.
+Gebruik de kleurenkiezer (Color Picker) om een kleur te kiezen die volgens jou goed werkt met je achtergrondkleur.
 
-![The contrast checker website. The colour picker underneath the 'Foreground color' is highlighted.](images/fore-color.png)
+![De contrastchecker website. The colour picker underneath the 'Foreground' is shown.](images/fore-color.png)
 
-**Notice** that you must choose a contrasting colour. If your background colour is dark, then use a light foreground colour.
+**Let op** dat je een contrasterende kleur moet kiezen. Als je achtergrondkleur donker is, gebruik dan een lichte voorgrondkleur.
 
-### Task 4
+### Taak 4
 
-**Check** that you have chosen a contrasting colour by looking at the statuses below. They should all be 'Pass'.
+\*\*Controleer \*\* dat je een contrasterende kleur hebt gekozen door naar de onderstaande statussen te kijken. Ze moeten allemaal 'Pass' zijn.
 
-![The contrast checker website. All of the statuses display the word: 'Pass'.](images/pass.PNG)
+![De contrastchecker website. Alle statussen tonen het woord: 'Pass'.](images/pass.PNG)
 
-If the status for your colour is not showing as 'Pass', then you can slide the 'Lightness' bar until they do.
+Als de status voor je kleur niet als 'Pass' wordt weergegeven, kun je de 'Lightness'-balk verschuiven totdat dit wel het geval is.
 
-![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.gif)
+![Animatie van de helderheidsbalk die naar links wordt verplaatst en de statussen veranderen naar 'Pass'.](images/adjust-contrast.gif)
 
-### Task 5
+### Taak 5
 
-Copy and paste the hex code for the contrasting colours into your colour palette. You need to find contrasting colours for:
+Kopieer en plak de hexadecimale code voor de contrasterende kleuren in je kleurenpalet. Je moet contrasterende kleuren vinden voor:
 
 - `onprimary`
 - `onsecondary`
