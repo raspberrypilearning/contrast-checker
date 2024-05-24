@@ -4,17 +4,17 @@ Open de website [Contrastchecker](https://webaim.org/resources/contrastchecker/)
 
 ### Taak 2
 
-Under the 'Background' heading, enter the hex code for your background colour. 'primair', 'secundair' en 'tertiair' zijn allemaal achtergrondkleuren.
+Voer onder de titel 'Achtergrondkleur' (Background) de hexadecimale code in voor je achtergrondkleur. 'primair', 'secundair' en 'tertiair' zijn allemaal achtergrondkleuren.
 
-![De contrastchecker website. The hex code underneath the 'Background' heading is highlighted.](images/back-color.png)
+![De contrastchecker website. De hexadecimale code onder de koptekst 'Achtergrondkleur' is gemarkeerd.](images/back-color.png)
 
 ### Taak 3
 
-**Choose**: To the left of the 'Background' section is a 'Foreground' section.
+**Kies**: Links van het gedeelte 'Achtergrondkleur' bevindt zich een gedeelte 'Voorgrondkleur' (Foreground).
 
 Gebruik de kleurenkiezer (Color Picker) om een kleur te kiezen die volgens jou goed werkt met je achtergrondkleur.
 
-![De contrastchecker website. The colour picker underneath the 'Foreground' is shown.](images/fore-color.png)
+![De contrastchecker website. De kleurkiezer onder de 'Voorgrondkleur' is gemarkeerd.](images/fore-color.png)
 
 **Let op** dat je een contrasterende kleur moet kiezen. Als je achtergrondkleur donker is, gebruik dan een lichte voorgrondkleur.
 
