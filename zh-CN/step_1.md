@@ -1,36 +1,36 @@
-### Task 1
+### 任务 1
 
-Open the [Contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} website.
+打开 [对比度检查器](https://webaim.org/resources/contrastchecker/){:target="_blank"} 网站。
 
-### Task 2
+### 任务 2
 
-Under the 'Background' heading, enter the hex code for your background colour. `primary`, `secondary`, and `tertiary` are all background colours.
+在“Background”标题下，输入背景颜色的十六进制代码。 `primary`，`secondary` 和 `tertiary` 都是背景颜色。
 
-![The contrast checker website. The hex code underneath the 'Background' heading is highlighted.](images/back-color.png)
+![对比度检查器网站。 'Background' 标题下方的十六进制代码已高亮显示。](images/back-color.png)
 
-### Task 3
+### 任务 3
 
-**Choose**: To the left of the 'Background' section is a 'Foreground' section.
+**选择**：“Background” 部分的左侧是 ”Foreground“ （前景）部分。
 
-Use the colour picker to pick a colour that you think works well with your background colour.
+使用颜色选择器选择你认为与背景颜色相配的颜色。
 
-![The contrast checker website. The colour picker underneath the 'Foreground' is shown.](images/fore-color.png)
+![对比度检查器网站。 显示 'Foreground' 下方的颜色选择器。](images/fore-color.png)
 
-**Notice** that you must choose a contrasting colour. If your background colour is dark, then use a light foreground colour.
+**注意**你必须选择对比色。 如果背景颜色较暗，则使用浅色前景色。
 
-### Task 4
+### 任务 4
 
-**Check** that you have chosen a contrasting colour by looking at the statuses below. They should all be 'Pass'.
+通过查看以下状态来**检查**你是否选择了对比色。 它们都应该是 “Pass”。
 
-![The contrast checker website. All of the statuses display the word: 'Pass'.](images/pass.PNG)
+![对比度检查器网站。 所有的状态都显示单词： 'Pass'.](images/pass.PNG)
 
-If the status for your colour is not showing as 'Pass', then you can slide the 'Lightness' bar until they do.
+如果你的颜色状态未显示为“Pass”，那么你可以滑动“Lightness”栏直到显示为止。
 
-![Animation of the status bar being moved to the left and the statuses changing to 'Pass'.](images/adjust-contrast.gif)
+![状态栏向左移动并且状态变为 'Pass' 的动画.](images/adjust-contrast.gif)
 
-### Task 5
+### 任务 5
 
-Copy and paste the hex code for the contrasting colours into your colour palette. You need to find contrasting colours for:
+将对比色的十六进制代码复制并粘贴到你的调色板中。 你需要找到以下颜色的对比色：
 
 - `onprimary`
 - `onsecondary`
